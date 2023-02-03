@@ -41,5 +41,3 @@
 <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-red.svg?logo=ruby">
 <img src="https://img.shields.io/badge/-Laravel-black.svg?logo=laravel">
 </p>
-![Most Used Languages](https://raw.githubusercontent.com/Yakanaro/github-stats-transparent/output/generated/languages.svg)
-
