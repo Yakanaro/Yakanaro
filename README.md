@@ -42,5 +42,16 @@
 <img src="https://img.shields.io/badge/-Laravel-black.svg?logo=laravel">
 </p>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakanaro&layout=compact&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakanaro&layout=compact&theme=react&border_color=61dafb&border_radius=10" />
 </p>
+<hr>
+<h2 align="center">👨‍💻 Pet-projects 👨‍💻</h2>
+<br>
+<p align="left">
+    <a href="https://github.com/Yakanaro/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakanaro&repo=php-gendiff&theme=react&border_color=61dafb&border_radius=10&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Yakanaro/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakanaro&repo=Page-Analyzer&theme=react&border_color=61dafb&border_radius=10&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Yakanaro/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakanaro&repo=Form-Generator&theme=react&border_color=61dafb&border_radius=10&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Yakanaro/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakanaro&repo=quotes-turbo&theme=react&border_color=61dafb&border_radius=10&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Yakanaro/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakanaro&repo=Rocket-Notes&theme=react&border_color=61dafb&border_radius=10&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Yakanaro/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakanaro&repo=Task-Manager&theme=react&border_color=61dafb&border_radius=10&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
