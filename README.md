@@ -23,7 +23,6 @@
   📫 How to reach me: <a href="mailto: kipaherd@gmail.com">kipaherd@gmail.com</a>
 </p>
 <hr>
-<br>
 <h3 align="center">🛠️ My Favorite Tools</h3>
 <h3 align="center">👨‍💻 Programming Languages</h3>
 <p align="center">
@@ -42,4 +41,6 @@
 <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-red.svg?logo=ruby">
 <img src="https://img.shields.io/badge/-Laravel-black.svg?logo=laravel">
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakanaro&layout=compact)](https://github.com/Yakanaro/github-readme-stats)
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakanaro&layout=compact&theme=tokyonight" />
+</p>
