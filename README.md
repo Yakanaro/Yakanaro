@@ -48,10 +48,10 @@
 <h2 align="center">👨‍💻 Pet-projects 👨‍💻</h2>
 <br>
 <p align="left">
-    <a href="https://github.com/Yakanaro/php-gendiff"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakanaro&repo=php-gendiff&theme=react&border_color=61dafb&border_radius=10&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Yakanaro/Task-Manager"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakanaro&repo=Task-Manager&theme=react&border_color=61dafb&border_radius=10&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Yakanaro/Page-Analyzer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakanaro&repo=Page-Analyzer&theme=react&border_color=61dafb&border_radius=10&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Yakanaro/php-gendiff"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakanaro&repo=php-gendiff&theme=react&border_color=61dafb&border_radius=10&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Yakanaro/Form-Generator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakanaro&repo=Form-Generator&theme=react&border_color=61dafb&border_radius=10&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Yakanaro/quotes-turbo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakanaro&repo=quotes-turbo&theme=react&border_color=61dafb&border_radius=10&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Yakanaro/Rocket-Notes"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakanaro&repo=Rocket-Notes&theme=react&border_color=61dafb&border_radius=10&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Yakanaro/Task-Manager"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yakanaro&repo=Task-Manager&theme=react&border_color=61dafb&border_radius=10&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
