@@ -1,5 +1,5 @@
 ## Hey 👋, I'm [Sergey Druzhinin!](https://github.com/Yakanaro/Yakanaro)
-<h3 align="center">I am a junior backend developer</h3>
+<h3 align="center">I am a backend developer</h3>
 
 <p align="center">
  <a href="https://t.me/yamamotto"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
