@@ -8,7 +8,6 @@
 </p>
 
 <hr>
-<h3 align="center">🛠️ My Favorite Tools</h3>
 <h3 align="center">👨‍💻 Programming Languages</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-Ruby-red.svg?logo=ruby">
